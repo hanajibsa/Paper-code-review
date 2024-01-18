@@ -1,5 +1,5 @@
 # paper_code_review
-논문을 읽고 코드로 구현한 것을 정리한 공간입니다. 
+대표적인 딥러닝 논문을 읽고 코드로 구현한 것을 정리한 공간입니다. 
 
 
 ## ✨Image recognition
