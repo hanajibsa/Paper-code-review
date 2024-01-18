@@ -8,7 +8,7 @@
 
 ## ✨Generative model
 ### VAE 
-- Auto-Encoding Variational Bayes
+- [Auto-Encoding Variational Bayes]('https://www.notion.so/VAE-ed55e815b5e64a4bbff591781e3453a6?pvs=4')
 
 ### GAN
 - Generative Adversarial Networks
